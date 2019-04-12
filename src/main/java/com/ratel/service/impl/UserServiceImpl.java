@@ -1,8 +1,8 @@
-package com.sunp.service.impl;
+package com.ratel.service.impl;
 
-import com.sunp.dao.UserDao;
-import com.sunp.model.User;
-import com.sunp.service.UserService;
+import com.ratel.dao.UserDao;
+import com.ratel.model.User;
+import com.ratel.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

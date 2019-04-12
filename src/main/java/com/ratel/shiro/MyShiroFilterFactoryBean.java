@@ -1,4 +1,4 @@
-package com.sunp.shiro;
+package com.ratel.shiro;
 
 import org.apache.shiro.spring.web.ShiroFilterFactoryBean;
 

@@ -1,6 +1,6 @@
-package com.sunp.service;
+package com.ratel.dao;
 
-import com.sunp.model.User;
+import com.ratel.model.User;
 
 import java.util.List;
 
@@ -8,10 +8,11 @@ import java.util.List;
  * Created by IntelliJ IDEA.
  * User: sunpeng
  * Date: 2017/9/3
- * Time: 19:18
- * Describe:
+ * Time: 18:21
+ * Describe: 用户数据 dao 接口
  */
-public interface UserService {
+public interface UserDao {
+
     /**
      * 获取用户信息
      * @param userName
@@ -24,4 +25,5 @@ public interface UserService {
      * @return
      */
     List<User> getUserList();
+
 }

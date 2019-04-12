@@ -1,4 +1,4 @@
-package com.sunp.model;
+package com.ratel.model;
 
 import java.io.Serializable;
 import java.util.List;

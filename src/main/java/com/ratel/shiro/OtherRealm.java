@@ -1,7 +1,7 @@
-package com.sunp.shiro;
+package com.ratel.shiro;
 
-import com.sunp.model.User;
-import com.sunp.service.UserService;
+import com.ratel.model.User;
+import com.ratel.service.UserService;
 import org.apache.shiro.authc.*;
 import org.apache.shiro.authz.AuthorizationInfo;
 import org.apache.shiro.realm.AuthorizingRealm;

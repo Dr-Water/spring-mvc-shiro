@@ -1,6 +1,6 @@
-package com.sunp.controller;
+package com.ratel.controller;
 
-import com.sunp.shiro.MyShiroFilterFactoryBean;
+import com.ratel.shiro.MyShiroFilterFactoryBean;
 import org.apache.shiro.web.filter.mgt.DefaultFilterChainManager;
 import org.apache.shiro.web.filter.mgt.PathMatchingFilterChainResolver;
 import org.apache.shiro.web.servlet.AbstractShiroFilter;

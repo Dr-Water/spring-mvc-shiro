@@ -1,7 +1,6 @@
-package com.sunp.controller;
+package com.ratel.controller;
 
-import com.sunp.model.User;
-import com.sunp.service.UserService;
+import com.ratel.service.UserService;
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.*;
 import org.apache.shiro.subject.Subject;
@@ -14,7 +13,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 

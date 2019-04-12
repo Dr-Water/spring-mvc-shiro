@@ -1,7 +1,7 @@
-package com.sunp.dao.impl;
+package com.ratel.dao.impl;
 
-import com.sunp.dao.UserDao;
-import com.sunp.model.User;
+import com.ratel.dao.UserDao;
+import com.ratel.model.User;
 import org.apache.shiro.crypto.SecureRandomNumberGenerator;
 import org.apache.shiro.crypto.hash.Sha256Hash;
 import org.springframework.stereotype.Component;

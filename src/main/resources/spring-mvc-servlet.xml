@@ -15,7 +15,7 @@
     <mvc:annotation-driven/>
 
     <!--指定扫描目录-->
-    <context:component-scan base-package="com.sunp.**"></context:component-scan>
+    <context:component-scan base-package="com.ratel.**"></context:component-scan>
 
     <mvc:annotation-driven>
         <mvc:message-converters register-defaults="false">
